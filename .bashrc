@@ -11,6 +11,8 @@ alias gbr='git branch --remote'
 alias gb='git branch'
 alias gc='git checkout'
 alias gcb='git checkout -b'
+alias gm='git merge'
+alias gmnf='git merge --no-ff'
 
 alias cls='clear'
 alias project='cd c:/project/dmp-web-v2'
