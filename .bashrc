@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 alias ins='npm install'
 alias run='npm run dev'
 
@@ -17,3 +18,23 @@ alias gmnf='git merge --no-ff'
 
 alias cls='clear'
 alias project='cd c:/project/dmp-web-v2'
+=======
+alias ins='npm install'
+alias run='npm run dev'
+
+alias gst='git status'
+alias ga='git add'
+alias gcm='git commit -m'
+alias gp='git push'
+alias gpsu='git push --set-upstream'
+alias gba='git branch -a'
+alias gbr='git branch --remote'
+alias gb='git branch'
+alias gc='git checkout'
+alias gcb='git checkout -b'
+alias gm='git merge'
+alias gmnf='git merge --no-ff'
+
+alias cls='clear'
+alias project='cd c:/project/dmp-web-v2'
+>>>>>>> 602f0b34d7851883b23e718e25a90cf5d3734841
